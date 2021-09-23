@@ -31,7 +31,7 @@
 
 #Diseño de Interfaz -Buscar Canciones
 
-![image](https://user-images.githubusercontent.com/65981417/134423437-3dcdfb07-a4fc-4ffe-889b-531ec7e0d793.png)
+![image](https://user-images.githubusercontent.com/65981417/134423437-3dcdfb07-a4fc-4ffe-889b-531ec7e0d793.png) 
 
 #Diseño de Interfaz – Preferencias Musicales
 
